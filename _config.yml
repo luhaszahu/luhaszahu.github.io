@@ -3,6 +3,9 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+# Excerpt separator
+excerpt_separator: <!-- more -->
+
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 baseurl: ''
@@ -40,7 +43,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Lucas
+  name: Lucas is a stinky poo
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
